@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"ColorPicker",
+		"Emmet",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}
